@@ -1,1 +1,1 @@
-# progress-steps
+# Progress Steps
